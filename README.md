@@ -38,8 +38,8 @@ This listener processes updates received from Telegram and delegates the process
 
 ### Prerequisites
 
-- Java 11
-- Spring Boot
+- Java 17
+- Spring Boot 3.1.4
 - PostgreSQL
 
 ### Setup
